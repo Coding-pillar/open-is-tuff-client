@@ -18,7 +18,7 @@ body:
     id: reproduction
     attributes:
       label: How to Reproduce
-      description: *Exact* steps to reproduce this issue
+      description: EXACT steps to reproduce this issue
       placeholder: 1. did this 2. then this...
     validations:
       required: true
